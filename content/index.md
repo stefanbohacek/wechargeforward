@@ -41,7 +41,7 @@ eleventyNavigation:
     <p class="fst-italic ">By {{image.authors}}</p>
     <!-- <p>{{ image.date }}</p> -->
     <a class="link-secondary" href="/assets/gallery/{{ image.image }}">
-      <img class="my-5" src="/assets/gallery/{{ image.image }}" alt="{{ image.alt }}" title="{{ image.title }}" >
+      <img class="my-5 mw-100" src="/assets/gallery/{{ image.image }}" alt="{{ image.alt }}" title="{{ image.title }}" >
     </a>
     {% if image.via %}
     <p class="fst-italic">Via {{image.via}}</p>
