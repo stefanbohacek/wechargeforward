@@ -26,12 +26,12 @@ gallery.forEach((image, index) => {
   image.id = imageFilename
   image.date = stats.mtime;
   image.authors = image.authors.map(author => {
-    return author.url ? /* html */ `<a class="link-secondary" href="${author.name}">${author.name}</a>` : author.name;
+    return author.url ? /* html */ `<a class="link-secondary" href="${author.url}">${author.name}</a>` : author.name;
   }).join(", ");
 
   if (image.via){
     image.via = image.via.map(source => {
-      return source.url ? /* html */ `<a class="link-secondary" href="${source.name}">${source.name}</a>` : source.name;
+      return source.url ? /* html */ `<a class="link-secondary" href="${source.url}">${source.name}</a>` : source.name;
     }).join(", ");
   }
 
