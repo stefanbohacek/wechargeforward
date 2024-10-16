@@ -1,4 +1,4 @@
-# Project name
+# We charge forward
 
 <img width="500" src="public/assets/thumbnail.png" alt="ALT_TEXT">
 
