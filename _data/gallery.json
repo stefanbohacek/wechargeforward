@@ -1,0 +1,84 @@
+[
+  {
+    "image": "i-will-be-okay.png",
+    "title": "I will be okay",
+    "source": "",
+    "authors": [
+      {
+        "name": "Unknown creator",
+        "url": ""
+      }
+    ],
+    "alt": "A crude spray-paint drawing on a wall in presumably an underpass, or a tunnel, of a person with their arms spread wide open, holding a flower in one hand. The text above says: “I will be okay”.",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "image": "i-try-again.jpeg",
+    "title": "I try again.",
+    "source": "",
+    "authors": [
+      {
+        "name": "@titsay",
+        "url": "https://linktr.ee/titsay"
+      }
+    ],
+    "alt": "A four panel comic showing a story of a a cartoony anthropomorphic bee going through their day. In panel one, captioned “Everyday [sic] ...”, the bee is tired, about to lie down in bed. In panel two, captoned “I fail.”, the bee is trying to sleep in their bed. In panel three, captiond “But everyday [sic]...” the bee is waking up. In the last panel, captioned “I try again :-)”, the bee is standing up defiantly with a smile on their face.",
+    "width": 1200,
+    "height": 1200
+  },
+  {
+    "image": "we-charge-forward.jpg",
+    "title": "We charge forward.",
+    "source": "",
+    "authors": [
+      {
+        "name": "Unknown creator",
+        "url": ""
+      }
+    ],
+    "via": [
+      {
+        "name": "@schratze",
+        "url": "https://todon.nl/@schratze/110854704167917983"
+      }
+    ],
+    "alt": "A close-up side view of a burning skeleton holding a sword. The image is captioned with: “state of the world? bad\nmental health? also bad,\nbut still, we charge forward”",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "image": "horrors-persist-but-so-do-i.png",
+    "title": "The horrors persist, but so do I.",
+    "source": "",
+    "authors": [
+      {
+        "name": "Unknown creator",
+        "url": ""
+      }
+    ],
+    "via": [
+      {
+        "name": "@SmudgeTheInsultCat",
+        "url": "https://mas.to/@SmudgeTheInsultCat/113306606337993980"
+      }
+    ],
+    "alt": "A still from a black and white movie, showing a person wearing a light space suit without a helmet, standing inside a spaceship, looking down at a small, rectangular piece of paper, holding some sort of a small microphone and speaking into it. The image is captioned with “the horrors persist but so do I”",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "image": "i-inch-forward.jpeg",
+    "title": "I inch forward",
+    "source": "",
+    "authors": [
+      {
+        "name": "Unknown creator",
+        "url": ""
+      }
+    ],
+    "alt": "A cartoon drawing of a snail in grass under a stormy sky with lightning, roses surrounding and little skulls. An ornate text reads: “The journey ís long and full of terror. Yet I inch forward.”",
+    "width": 100,
+    "height": 100
+  }
+]

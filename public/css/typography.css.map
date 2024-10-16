@@ -1,0 +1,1 @@
+{"version":3,"sources":["typography.scss","typography.css"],"names":[],"mappings":"AAAA,KACE,gBCCF,CDEA,GACE,4BCCF","file":"typography.css","sourcesContent":["body{\r\n  font-size: 1.2rem;\r\n}\r\n\r\nh1{\r\n  margin-bottom: 3rem!important;\r\n}","body {\n  font-size: 1.2rem;\n}\n\nh1 {\n  margin-bottom: 3rem !important;\n}"]}
