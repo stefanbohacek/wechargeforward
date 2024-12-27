@@ -80,5 +80,19 @@
     "alt": "A cartoon drawing of a snail in grass under a stormy sky with lightning, roses surrounding and little skulls. An ornate text reads: “The journey ís long and full of terror. Yet I inch forward.”",
     "width": 100,
     "height": 100
+  },
+  {
+    "image": "we-hope.png",
+    "title": "We hope",
+    "source": "https://mas.to/@skeletor/113691496040413643",
+    "authors": [
+      {
+        "name": "Inspirational Skeletor",
+        "url": "https://mas.to/@skeletor"
+      }
+    ],
+    "alt": "A frame from the Masters of the Universe cartoon TV show, depicting Skeletor, a fictional skull-faced, blue-skinned supervillain sorcerer.\n\nThe text on the top and bottom of the image reads: “And sometimes, against all odds, against all logic\n\nwe hope”.",
+    "width": 900,
+    "height": 671
   }
 ]
